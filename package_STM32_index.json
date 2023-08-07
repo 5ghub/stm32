@@ -7,11 +7,11 @@
       "email": "stmduino@st.com",
       "platforms": [
         {
-          "name": "STM32F072C8T6",
+          "name": "STM32F072C8T6 Board",
           "architecture": "stm32",
           "version": "2.6.0",
           "category": "Contributed",
-    	  "url": "https://github.com/5ghub/imxrt/raw/main/stm32-Core.zip",		
+    	  "url": "https://github.com/5ghub/stm32/raw/master/stm32-Core.zip",		
 		  "archiveFileName": "stm32-Core.zip",
           "checksum": "SHA-256:0f424eea3472931ed63b79288533190aaa2ae61b3ff5cdc47817fd217dccf6be",
           "size": "40102087",
