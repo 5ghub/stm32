@@ -1,10 +1,10 @@
 {
   "packages": [
     {
-      "name": "5G_STM32",
+      "name": "",
       "websiteURL": "https://5ghub.us",
       "maintainer": "5G_STM32",
-      "email": "",
+      "email": ""
       "platforms": [
         {
           "name": "STM32F072C8T6 Board",
