@@ -4,7 +4,7 @@
       "name": "5G_STM32",
       "websiteURL": "https://5ghub.us",
       "maintainer": "5G_STM32",
-      "email": "stmduino@st.com",
+      "email": "",
       "platforms": [
         {
           "name": "STM32F072C8T6 Board",
@@ -13,8 +13,8 @@
           "category": "Contributed",
     	  "url": "https://github.com/5ghub/stm32/raw/master/stm32-Core.zip",		
 		  "archiveFileName": "stm32-Core.zip",
-          "checksum": "SHA-256:0f424eea3472931ed63b79288533190aaa2ae61b3ff5cdc47817fd217dccf6be",
-          "size": "40102087",
+          "checksum": "SHA-256:ef16fba72322990929f1ef4b1299f78e67d573881132d8d7516ab613881825d6",
+          "size": "40102087 ",
           "boards": [
             {"name": "STM32F072C8T6"}
           ],
