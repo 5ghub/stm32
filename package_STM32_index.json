@@ -9,12 +9,12 @@
         {
           "name": "STM32F072C8T6 Board",
           "architecture": "stm32",
-          "version": "2.6.0",
+          "version": "1.0.0",
           "category": "Contributed",
     	  "url": "https://github.com/5ghub/stm32/raw/master/stm32-Core.zip",		
 		  "archiveFileName": "stm32-Core.zip",
-          "checksum": "SHA-256:ba0308963b461ade45bb79d4aa60790bbbb3721ceff85040cb2b8b551c255b32",
-          "size": "40102087",
+          "checksum": "SHA-256:1627715e09d20cf809ff64ded8d487388d55261ff6d5871a92b0b74246aaec20",
+          "size": "40161929",
           "boards": [
             {"name": "STM32F072C8T6"}
           ],
