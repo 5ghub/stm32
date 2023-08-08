@@ -13,7 +13,7 @@
           "category": "Contributed",
     	  "url": "https://github.com/5ghub/stm32/raw/master/stm32-Core.zip",		
 		  "archiveFileName": "stm32-Core.zip",
-          "checksum": "SHA-256:5da1ca1011c31737e0cf71d53b3e2d85152f616a59e93fa15006449048ed2ca2",
+          "checksum": "SHA-256:ba0308963b461ade45bb79d4aa60790bbbb3721ceff85040cb2b8b551c255b32",
           "size": "40221793",
           "boards": [
             {"name": "STM32F072C8T6"}
