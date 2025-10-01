@@ -51,7 +51,12 @@ void setup()
 
   ATSerial.begin(115200);
   while (!ATSerial) ;
-  ATSerial.println("Modem USART Serial Done .....");
+
+  Serial.println("Modem USART Serial Done .....");
+
+  sendATcommand("ATE1");
+  sendATcommand("ATI");
+  delay(1000);
 
   Serial.println("Exit Initlization.....");
 
@@ -62,14 +67,11 @@ void loop()
 {
 
 #ifdef INCLUDE_MODEM
-  //ATI
-  sendATcommand("ATE1");
-  sendATcommand("ATI");
   delay(1000);
 
   loopModem(); 
 
-  #endif
+#endif
 
   loopCAN();
 }
