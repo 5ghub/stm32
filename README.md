@@ -39,10 +39,17 @@ This Repository is compatible with:
 # How to Use Arduino IDE with the Board
 
 1. Install Arduino IDE for Windows from the following web site (Minimum Arduino IDE version 2.1.1):
+
    https://www.arduino.cc/en/Main/Software
+
 2. Launch Arduino IDE and choose File->Preferences. In the Additional Boards Manager URLs, insert the following URL:
+
    https://raw.githubusercontent.com/5ghub/stm32/refs/heads/master/package_STM32_index.json
+
 3. In Arduino IDE, choose Tools->Board->Boards Manager and install “STM32F072C8T6 Board”.
+
 4. Choose “STM32F072C8T6”
+
 5. In the Arduino IDE, Choose Sketch->Include Library->Add .Zip Library and select the file STM32_Arduino.zip
+
 6. You are ready now to use the Arduino IDE, use many example sketches, and  write the first sketch.
